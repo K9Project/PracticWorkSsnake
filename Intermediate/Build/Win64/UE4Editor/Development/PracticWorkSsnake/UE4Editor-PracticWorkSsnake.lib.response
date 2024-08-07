@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PracticWorkSsnake.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\N007va\Documents\Unreal Projects\Practic Works\PracticWorkSsnake\Intermediate\Build\Win64\PracticWorkSsnakeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\N007va\Documents\Unreal Projects\Practic Works\PracticWorkSsnake\Intermediate\Build\Win64\UE4Editor\Development\PracticWorkSsnake\PlayerPawnBase.cpp.obj"
+"C:\Users\N007va\Documents\Unreal Projects\Practic Works\PracticWorkSsnake\Intermediate\Build\Win64\UE4Editor\Development\PracticWorkSsnake\PracticWorkSsnake.cpp.obj"
+"C:\Users\N007va\Documents\Unreal Projects\Practic Works\PracticWorkSsnake\Intermediate\Build\Win64\UE4Editor\Development\PracticWorkSsnake\PracticWorkSsnakeGameModeBase.cpp.obj"
+"C:\Users\N007va\Documents\Unreal Projects\Practic Works\PracticWorkSsnake\Intermediate\Build\Win64\UE4Editor\Development\PracticWorkSsnake\SnakeBase.cpp.obj"
+"C:\Users\N007va\Documents\Unreal Projects\Practic Works\PracticWorkSsnake\Intermediate\Build\Win64\UE4Editor\Development\PracticWorkSsnake\PlayerPawnBase.gen.cpp.obj"
+"C:\Users\N007va\Documents\Unreal Projects\Practic Works\PracticWorkSsnake\Intermediate\Build\Win64\UE4Editor\Development\PracticWorkSsnake\PracticWorkSsnake.init.gen.cpp.obj"
+"C:\Users\N007va\Documents\Unreal Projects\Practic Works\PracticWorkSsnake\Intermediate\Build\Win64\UE4Editor\Development\PracticWorkSsnake\PracticWorkSsnakeGameModeBase.gen.cpp.obj"
+"C:\Users\N007va\Documents\Unreal Projects\Practic Works\PracticWorkSsnake\Intermediate\Build\Win64\UE4Editor\Development\PracticWorkSsnake\SnakeBase.gen.cpp.obj"
+"C:\Users\N007va\Documents\Unreal Projects\Practic Works\PracticWorkSsnake\Intermediate\Build\Win64\UE4Editor\Development\PracticWorkSsnake\Default.rc2.res"
+/OUT:"C:\Users\N007va\Documents\Unreal Projects\Practic Works\PracticWorkSsnake\Intermediate\Build\Win64\UE4Editor\Development\PracticWorkSsnake\UE4Editor-PracticWorkSsnake.lib"

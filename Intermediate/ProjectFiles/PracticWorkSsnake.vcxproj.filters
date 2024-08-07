@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PracticWorkSsnake.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{FEC4957B-6688-4B41-8858-F20BB5F1122F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PracticWorkSsnake.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PracticWorkSsnakeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{9A30C1B2-C741-460E-825B-09BD64EEFD7E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PracticWorkSsnake">
+      <UniqueIdentifier>{2B32955A-7842-4DC4-93FF-08B40F21FF9C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\PracticWorkSsnake\PlayerPawnBase.cpp">
+      <Filter>Source\PracticWorkSsnake</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PracticWorkSsnake\PlayerPawnBase.h">
+      <Filter>Source\PracticWorkSsnake</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\PracticWorkSsnake\PracticWorkSsnake.Build.cs">
+      <Filter>Source\PracticWorkSsnake</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PracticWorkSsnake\PracticWorkSsnake.cpp">
+      <Filter>Source\PracticWorkSsnake</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PracticWorkSsnake\PracticWorkSsnake.h">
+      <Filter>Source\PracticWorkSsnake</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PracticWorkSsnake\PracticWorkSsnakeGameModeBase.cpp">
+      <Filter>Source\PracticWorkSsnake</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PracticWorkSsnake\PracticWorkSsnakeGameModeBase.h">
+      <Filter>Source\PracticWorkSsnake</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PracticWorkSsnake\SnakeBase.cpp">
+      <Filter>Source\PracticWorkSsnake</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PracticWorkSsnake\SnakeBase.h">
+      <Filter>Source\PracticWorkSsnake</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,2 @@
+C:\Users\N007va\Documents\Unreal Projects\Practic Works\PracticWorkSsnake\Intermediate\Build\Win64\UE4Editor\Development\PracticWorkSsnake\Definitions.PracticWorkSsnake.h
+C:\Users\N007va\Documents\Unreal Projects\Practic Works\PracticWorkSsnake\Source\PracticWorkSsnake\PracticWorkSsnake.h
