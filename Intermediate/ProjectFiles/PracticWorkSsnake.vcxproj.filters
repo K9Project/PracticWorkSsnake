@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\PracticWorkSsnake.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{FEC4957B-6688-4B41-8858-F20BB5F1122F}</UniqueIdentifier>
+      <UniqueIdentifier>{F8302FC6-F0BE-4F49-9DB4-88E845470B08}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\PracticWorkSsnake.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,10 @@
     <None Include="..\..\Source\PracticWorkSsnakeEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{9A30C1B2-C741-460E-825B-09BD64EEFD7E}</UniqueIdentifier>
+      <UniqueIdentifier>{9F8D074E-D0D4-4E0A-AA1D-E51D4AAEA323}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +26,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\PracticWorkSsnake">
-      <UniqueIdentifier>{2B32955A-7842-4DC4-93FF-08B40F21FF9C}</UniqueIdentifier>
+      <UniqueIdentifier>{8BE63B1E-4A44-497D-BDE5-132EED538A04}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\PracticWorkSsnake\PlayerPawnBase.cpp">
       <Filter>Source\PracticWorkSsnake</Filter>
